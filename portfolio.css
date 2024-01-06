@@ -1,0 +1,46 @@
+/* */
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+/*Portfolio Style*/
+nav{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.nev-title{color: var(--Dark-01, #181818);
+
+    font-family: Open Sans;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+
+}
+.pry{
+   color: orange;
+}
+nav> ul{
+    display: flex;
+    
+}
+nav li{
+    list-style: none;
+    margin: 50px;
+
+}
+nav a {
+    text-decoration: none;
+    color: #181818;
+}
+.btn{
+    color: var(--White-Color, #FFF);
+font-family: Open Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+border-radius: 5px;
+background: #FD6E0A;
+padding: 15px 35px;
+}
