@@ -189,4 +189,23 @@ line-height: normal;
 .dawnlode-cv{
     text-align: center;
     margin-top: 50px;
+    font-size: xx-large;
+    
+}
+.btn-pri{
+    background-color: #FD6E0A;
+    padding: 0x;
+    color: var(--White-Color, #FFF);
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+footer{
+    display: flex;
+    margin: 100px;  
+    background: #FFF8F3;
+    padding: 130px 200px;
 }
